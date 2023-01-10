@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 123, 0);
+    color: rgba(128, 128, 128, 0.651);  
+    margin: 5px;  
+    padding: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+header,
+footer{
+    text-align: center;
+    background-color: white;
+}   
+p{
+    text-align:justify;
+    text-indent: 8%;
+} 
+h2
+h3
+h4{
+    color: crimson;
+    text-decoration-line: underline;
+}

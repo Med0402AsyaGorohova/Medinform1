@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+    color: blue;  
+    margin: 5px;  
+    padding: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+header,
+footer{
+    text-align: center;
+    background-color: gainsboro;
+}   
+p{
+    text-align:justify;
+    text-indent: 8%;
+} 
+p::first-letter{
+    font-size: 120%;
+    color:coral;
+    text-decoration-line: underline;
+}
+
+
+p::first-line{
+    color: black;
+}
+h2
+h3
+h4{
+    color: crimson;
+    text-decoration-line: underline;
+}
+.myimage-div{
+    display: none;
+}
+a.myimage-ssilka:hover+div
+{
+    display: block;
+}
