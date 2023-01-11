@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(201, 114, 78);
+    color: rgb(0, 0, 0);  
+    margin: 5px;  
+    padding: 2px;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Archivo Narrow', sans-serif;
+    }
+header,
+footer{
+    text-align: center;
+    background-color: rgb(171, 167, 167);
+}   
+p{
+    text-align: center;
+    text-indent: 8%;
+} 
+h2{
+    text-align: center;
+}
+h3
+h4{
+    color: crimson;
+    text-decoration-line: underline;
+}
+h1{
+    color: crimson;
+    text-decoration-line: underline;
+    font-size: 68px ;
+}
+h5{
+    text-align: left;
+    background-color: rgb(171, 167, 167);
+    font-size: 18px ;
+}
